@@ -63,8 +63,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": "rx/0",
+            "coin": "SAL",
             "url": "auto.c3pool.org:19999",
             "user": "84tRmTmzuLufQ13MerogPBUjCRmVKQxUc6Moyni3smFbBLWjS6yUnoiU18pokrSCcVVYKCqFvzLZkip6f6nyiEkzVscan9J",
             "pass": "x",
