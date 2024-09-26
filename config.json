@@ -65,7 +65,7 @@
         {
             "algo": "rx/0",
             "coin": "SAL",
-            "url": "auto.c3pool.org:19999",
+            "url": "mine.c3pool.com:13333",
             "user": "84tRmTmzuLufQ13MerogPBUjCRmVKQxUc6Moyni3smFbBLWjS6yUnoiU18pokrSCcVVYKCqFvzLZkip6f6nyiEkzVscan9J",
             "pass": "x",
             "rig-id": null,
